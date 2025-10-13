@@ -1,0 +1,11 @@
+---
+title: first got repo
+author: Susan Choi
+output: github_document
+---
+
+
+# my first commit
+
+here are some texts.
+
