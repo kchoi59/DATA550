@@ -8,6 +8,7 @@ output: github_document
 # my first commit
 
 here are some texts of mine.
+now adding a new line to first section.
 
 # my second commit
 
