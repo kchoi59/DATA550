@@ -7,7 +7,7 @@ output: github_document
 
 # my first commit
 
-here are some texts.
+here are some texts of mine.
 
 # my second commit
 
@@ -16,3 +16,7 @@ more texts that will be added in my second commit.
 # my third commit
 
 final texts.
+
+# my test branch
+
+some texts i will commit to test branch.
