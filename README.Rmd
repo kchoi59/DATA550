@@ -1,5 +1,5 @@
 ---
-title: first got repo (on the main branch)
+title: first git repo (on the main branch)
 author: Susan Choi
 output: github_document
 ---
