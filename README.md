@@ -1,4 +1,4 @@
-first got repo (on the main branch)
+first git repo (on the main branch)
 ================
 Susan Choi
 
