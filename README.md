@@ -7,6 +7,8 @@ Susan Choi
 here are some texts of mine. now adding a new line to first section.
 text for another commit text for another another commit
 
+**here is some text on test branch**
+
 # my second commit
 
 more texts that will be added in my second commit.

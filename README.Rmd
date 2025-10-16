@@ -12,6 +12,9 @@ now adding a new line to first section.
 text for another commit
 text for another another commit
 
+
+__here is some text on test branch__
+
 # my second commit
 
 more texts that will be added in my second commit.
